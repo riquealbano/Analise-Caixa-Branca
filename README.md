@@ -2,9 +2,9 @@
 
 <img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/39777ccd-390d-4f87-b7d0-8636a18d7b37" />
 
-## Analisando a Código-fonte
+## Analisando o Código
 
-### Analise o código-fonte acima e responda as seguintes perguntas:
+### Analise o código acima e responda as seguintes perguntas:
 
 O código foi devidamente documentado?
 
