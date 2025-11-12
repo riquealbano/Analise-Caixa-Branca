@@ -17,7 +17,3 @@ Todos os NullPointers foram tratados?
 As conexões utilizadas foram fechadas?
 
 Link para o Excel: https://1drv.ms/x/c/967bf7c8f82502b9/ETB_kbYapxlBhWf-9PJQ8VoBnh5demZogAopRb3EU-0pWw?e=lS5aoP
-
-## Refazendo o Código
-
-### Código comentado e testado verificando possíveis falhas
