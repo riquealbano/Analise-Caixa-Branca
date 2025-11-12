@@ -1,6 +1,6 @@
 # Analise de Código / Teste de Caixa Branca
 
-<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/7df906e2-79f7-49d7-8ae3-4d8cd060c53f" />
+<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/39777ccd-390d-4f87-b7d0-8636a18d7b37" />
 
 ## Analisando a Código-fonte
 
