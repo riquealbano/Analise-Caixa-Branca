@@ -80,19 +80,29 @@ Aresta de 11 para 12: O fluxo segue do ponto de junção para o return
 
 # Cálculo de Complexidade Ciclomática
 
-### Nós (N):
+### Nós (N) = 12
 
-N1, N2, N3, N4, N5, N6, N7, N8, N9, N10, N11, N12.
-
-Total de Nós (N) = 12
+A quantidade de Nós (N1, N2, N3...)
 
 ### Total de Arestas (E) = 17
 
+Basta contar a quantidade de setas (setas = arestas)
+
 ### Total de Componentes (P) = 1
+
+Número de "Programas" sendo analisados
 
 ## Cálculo
 
-Substituindo os valores na fórmula: M = E - N + 2P M = 17 - 12 + (2 × 1) M = 5 + 2 M = 7
+Substituindo os valores na fórmula: 
+
+M = E - N + 2P
+
+M = 17 - 12 + (2 × 1) 
+
+M = 5 + 2 
+
+M = 7
 
 A complexidade ciclomática M desse código é 7
 
