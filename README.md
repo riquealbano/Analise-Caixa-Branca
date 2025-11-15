@@ -46,7 +46,7 @@ Nó 10: } catch (Exception e) { (Caminho alternativo da Decisão 1)
 
 Nó 11: } (Ponto de junção final do try-catch)
 
-Nó 12: return result; (Nó de saída)
+Nó 12: return result;
 
 ## Montando o Fluxo
 
@@ -68,7 +68,7 @@ Aresta de 7 para 11: Caminho "Falso" (se rs.next() for false, ele pula os Nós 8
 
 Aresta de 8 para 9: Sequência dentro do if.
 
-Aresta de 9 para 11: Após o Nó 9, o fluxo se junta ao caminho "Falso", indo para o Nó 11 (o fim do try-catch). Isso é idêntico ao N3 e N4 se juntando no N5 do seu professor.
+Aresta de 9 para 11: Após o Nó 9, o fluxo se junta ao caminho "Falso", indo para o Nó 11 (o fim do try-catch).
 
 Arestas de 5, 6, 7, 8, ou 9 para 10: Se qualquer um desses nós falhar (ex: NullPointerException no Nó 5), o fluxo é desviado para o Nó 10.
 
