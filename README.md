@@ -18,11 +18,11 @@ As conexões utilizadas foram fechadas?
 
 Link para o Excel: https://1drv.ms/x/c/967bf7c8f82502b9/ETB_kbYapxlBhWf-9PJQ8VoBnh5demZogAopRb3EU-0pWw?e=lS5aoP
 
-## Grafo de Fluxo
+# Grafo de Fluxo
 
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/c260a314-c05f-4c48-95d7-f83348c6633d" />
 
-# Mapeando os Nós
+## Mapeando os Nós
 
 Nó 1: String sql = "";
 
@@ -48,7 +48,7 @@ Nó 11: } (Ponto de junção final do try-catch)
 
 Nó 12: return result; (Nó de saída)
 
-# Montando o Fluxo
+## Montando o Fluxo
 
 Aresta de 1 para 2: Início do fluxo.
 
